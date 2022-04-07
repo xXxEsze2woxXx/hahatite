@@ -1,4 +1,4 @@
-local A_1 = "Oopsie Woopsie! Uwu We made a tackie wackie!!"
+local A_1 = "tado ka swaggy"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 -- MAIN SCRIPT --
