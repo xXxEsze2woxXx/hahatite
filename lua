@@ -1,4 +1,4 @@
-local A_1 = "bat ka nagdudup?"
+local A_1 = "wa"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 -- MAIN SCRIPT --
