@@ -6,5 +6,5 @@ if plr:IsInGroup("9963536") then
         workspace.__THINGS.__REMOTES.MAIN:FireServer("b", wa)
     end
 else
-    plr:Kick("not whitelisted by esze1ne")
+    plr:Kick("wa")
 end
